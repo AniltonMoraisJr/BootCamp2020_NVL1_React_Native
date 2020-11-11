@@ -84,16 +84,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#7159c1",
   },
-  activityContainer: {
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-  activityText: {
-    marginTop: 10,
-    color: "#04d361",
-    fontWeight: "bold",
-  },
   repositoryContainer: {
     marginBottom: 15,
     marginHorizontal: 15,
